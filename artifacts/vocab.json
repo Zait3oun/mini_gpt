@@ -1,0 +1,38 @@
+{
+  "stoi": {
+    ".": 0,
+    "Artificial": 1,
+    "Deep": 2,
+    "I": 3,
+    "Machine": 4,
+    "amazing": 5,
+    "artificial": 6,
+    "deep": 7,
+    "intelligence": 8,
+    "interesting": 9,
+    "is": 10,
+    "learning": 11,
+    "love": 12,
+    "machine": 13,
+    "powerful": 14,
+    "study": 15
+  },
+  "itos": {
+    "0": ".",
+    "1": "Artificial",
+    "2": "Deep",
+    "3": "I",
+    "4": "Machine",
+    "5": "amazing",
+    "6": "artificial",
+    "7": "deep",
+    "8": "intelligence",
+    "9": "interesting",
+    "10": "is",
+    "11": "learning",
+    "12": "love",
+    "13": "machine",
+    "14": "powerful",
+    "15": "study"
+  }
+}
